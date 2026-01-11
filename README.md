@@ -72,7 +72,7 @@ Telegram API Credentials
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhinai2244/SEQUENCE-BOT.git
+git clone https://github.com/Tamilan/SEQUENCE-BOT.git
 
 # Navigate to project directory
 cd SEQUENCE-BOT
